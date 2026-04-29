@@ -85,7 +85,7 @@ plt.show() #menampilkan plot ke layar
 ```
 
 ## Full Code
-```pyhon
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sympy import symbols, sympify, lambdify
