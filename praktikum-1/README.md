@@ -11,7 +11,7 @@
 
 </div>
 
-## Penjelasan dan Potongan Kode
+## Langkah-langkah & Potongan Kode
 #### 1. Mengimport library yang diperlukan untuk kebutuhan perhitungan numerik.
 ```python
 import numpy as np #untuk pengolahan angka / array
@@ -88,7 +88,7 @@ plt.grid() #garis bantu (grid)
 plt.show() #menampilkan plot ke layar
 ```
 
-## Full Code
+## Kode Penuh (_Full Code_)
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -147,4 +147,10 @@ plt.grid()
 plt.show()
 ```
 
+## _Screenshot_
+#### 1. Tabel iterasi
+![Tabel iterasi](image/tabel_iterasi.png)
+
+#### 2. Grafik
+![Grafik](image/grafik.png)
 
