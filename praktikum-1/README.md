@@ -1,3 +1,5 @@
+<div align=center>
+    
 # Praktikum 1 - Regula Falsi
 ## Kelompok 10
 
@@ -6,6 +8,8 @@
 | 5025251022 | Ahmad Radho Alfariz |
 | 5025251047 | Akhmad Fahmi        |
 | 5025251059 | Arsya Argananta     |
+
+</div>
 
 ## Penjelasan dan Potongan Kode
 #### 1. Mengimport library yang diperlukan untuk kebutuhan perhitungan numerik.
