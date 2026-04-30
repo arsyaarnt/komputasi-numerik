@@ -14,6 +14,7 @@ f = lambdify(x, f_sym, 'numpy')
 tol = 0.5 * 10**(-d)
 
 if f(a) * f(b) > 0:
+    print("Akar tidak ditemukan.\n")
     exit()
 
 print("\nIterasi:")
