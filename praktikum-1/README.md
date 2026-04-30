@@ -39,7 +39,7 @@ if f(a) * f(b) > 0:
     exit()
 ```
 #### 5. Menampilkan judul dan kolom tabel iterasi.
-```pyhton
+```python
 print("\nIterasi:")
 print(f"{'i':>3} | {'a':>12} | {'b':>12} | {'c':>12} | {'f(a)':>12} | {'f(b)':>12} | {'f(c)':>12}")
 ``` 
