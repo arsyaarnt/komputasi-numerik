@@ -35,6 +35,7 @@ tol = 0.5 * 10**(-d) #menentukan batas toleransi
 #### 4. Sebagai langkah preventif karena dalam metode regula falsi, syaratnya adalah nilai f(a) dan f(b) harus memiliki tanda yang berbeda (satu positif dan satu negatif). 
 ```python
 if f(a) * f(b) > 0:
+    print("Akar tidak ditemukan.\n")
     exit()
 ```
 #### 5. Menampilkan judul dan kolom tabel iterasi.
@@ -106,6 +107,7 @@ f = lambdify(x, f_sym, 'numpy')
 tol = 0.5 * 10**(-d)
 
 if f(a) * f(b) > 0:
+    print("Akar tidak ditemukan.\n")
     exit()
 
 print("\nIterasi:")
