@@ -287,4 +287,4 @@ for i in range(level):
 ![Output](trapezoida_v_romberg.jpeg)
 
 ## Kesimpulan
-Berdasarkan program komputer yang telah dijelaskan sebelumnya, ...
+Berdasarkan program komputer yang telah dibuat, dapat disimpulkan bahwa metode Romberg mampu mengatasi kelemahan metode Trapezoidal yang memerlukan jumlah interval yang besar untuk memperoleh akurasi yang tinggi. Metode Romberg tidak menghilangkan kebutuhan untuk memperkecil interval, tetapi memanfaatkan hasil perhitungan Trapezoidal pada beberapa ukuran interval yang berbeda. Selanjutnya, metode Romberg menerapkan teknik ekstrapolasi Richardson untuk mengurangi error dengan lebih cepat sehingga hasil perhitungan memiliki tingkat konvergensi menuju nilai eksak yang lebih cepat pula. Oleh karena itu, metode Romberg umumnya mampu menghasilkan akurasi yang lebih baik dibandingkan metode Trapezoidal dengan jumlah interval yang relatif lebih sedikit.
