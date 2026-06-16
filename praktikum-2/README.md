@@ -284,4 +284,7 @@ for i in range(level):
 ```
 
 ## _Screenshot_
-![Output](trapezoida_v_romberg.png)
+![Output](trapezoida_v_romberg.jpeg)
+
+## Kesimpulan
+Berdasarkan program komputer yang telah dijelaskan sebelumnya, ...
